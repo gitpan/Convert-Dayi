@@ -4,4 +4,6 @@ Makefile.PL
 README
 lib/Convert/Dayi.pm
 t/00-load.t
+bin/dayi.from_ascii
+bin/dayi.to_ascii
 META.yml                                 Module meta-data (added by MakeMaker)
