@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Convert-Dayi
-version:            0.04
+version:            0.05
 abstract:           Dayi Convention Module
 author:
     - Cornelius <cornelius.howl_at_gmail.com>
